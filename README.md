@@ -11,22 +11,22 @@ Static app to measure my tasks reminders.
 
 * Configuration: It will run on iPhone devices.
 * Dependencies:
-- An iphone.
+  - An iphone.
 * Database configuration:
-- One DB table for tasks.
+  - One DB table for tasks.
 * How to run tests
-- (void)
+  - (void)
 * Deployment instructions
-- (void)
+  - (void)
 
 ### Contribution guidelines ###
 
 * Writing tests
-- (void)
+  - (void)
 * Code review
-- (void)
+  - (void)
 * Other guidelines
-- (void)
+  - (void)
 
 ### Who do I talk to? ###
 
